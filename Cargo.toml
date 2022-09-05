@@ -1,0 +1,41 @@
+[workspace]
+members = ["contracts/*", "packages/*", "test-contracts/*"]
+
+[profile.release.package.ultra-token]
+codegen-units = 1
+incremental = false
+
+[profile.release.package.active-pool]
+codegen-units = 1
+incremental = false
+
+[profile.release.package.default-pool]
+codegen-units = 1
+incremental = false
+
+[profile.release.package.trove-manager]
+codegen-units = 1
+incremental = false
+
+[profile.release.package.band-ibc-oracle]
+codegen-units = 1
+incremental = false
+
+[profile.release.package.junoswap-oracle]
+codegen-units = 1
+incremental = false
+
+[profile.release.package.coll-surplus-pool]
+codegen-units = 1
+incremental = false
+
+[profile.release]
+codegen-units = 1
+opt-level = 3
+debug = false
+rpath = false
+lto = true
+debug-assertions = false
+panic = 'abort'
+incremental = false
+overflow-checks = true

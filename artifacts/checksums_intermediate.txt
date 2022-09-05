@@ -1,0 +1,8 @@
+ac85bf03852446c0c96d3c6190523c244212bcd096aa313b87e089dd94a2c9fe  ./target/wasm32-unknown-unknown/release/active_pool.wasm
+a4825dbad20df4f8e701ad00cca9e1c2d20bb03ed44ec65626bf320086f185ce  ./target/wasm32-unknown-unknown/release/bandoracle.wasm
+41a86a3f4cba271a707f46bb5e91894e4960cbab7d81d37583f783eb9ba090be  ./target/wasm32-unknown-unknown/release/coll_surplus_pool.wasm
+6a5abd5b86f40d41bcac33dd7cbe7ba4f8637885e882cae083ee1b2a4e51c129  ./target/wasm32-unknown-unknown/release/default_pool.wasm
+bb873a9c783bc5d05bf8f10d8fddd3d2b7166dd9f38b8a2b22119d1a9bb7bc18  ./target/wasm32-unknown-unknown/release/junoswap_oracle.wasm
+c9bfc081a7bc23a509fa478fc64f2174f5f00a75a107a49a65a7aaf32b8442d2  ./target/wasm32-unknown-unknown/release/price_feed_test.wasm
+9adc9116e7965de10032f544cf18962b2ae1cd1576cf8761895ff1e00746c601  ./target/wasm32-unknown-unknown/release/ultra_base.wasm
+975be4d36db2d9eb65610ac50a0666df7ee1fc53cd0ac2093fc8d77de24eaa71  ./target/wasm32-unknown-unknown/release/ultra_token.wasm
